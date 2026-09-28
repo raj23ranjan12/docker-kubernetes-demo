@@ -18,24 +18,6 @@ It simulates how modern cloud-native applications are built, deployed, and monit
 ## 🏗️ Architecture
 <img width="376" height="523" alt="architecture" src="https://github.com/user-attachments/assets/7e9dee43-1299-4351-884a-bfbaddc27049" />
 
-GitHub Repository
-        ↓
-GitHub Actions (CI/CD Pipeline)
-        ↓
-Docker Image Build
-        ↓
-Kubernetes Deployment (Minikube / Docker Desktop)
-        ↓
-Service Exposure (NodePort)
-        ↓
-Flask Application (Running Pods)
-        ↓
-Prometheus (Metrics Collection)
-        ↓
-Grafana (Visualization & Dashboards)
-
----
-
 ## ⚙️ Tech Stack
 
 - Python (Flask)
