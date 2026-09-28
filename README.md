@@ -17,8 +17,8 @@ It simulates how modern cloud-native applications are built, deployed, and monit
 
 ## 🏗️ Architecture
 
-```
-<img width="389" height="514" alt="image" src="https://github.com/user-attachments/assets/973e952b-a10d-4482-8009-8b2629db9141" />
+
+img width="389" height="514" alt="image" src="https://github.com/user-attachments/assets/973e952b-a10d-4482-8009-8b2629db9141" /
 
 GitHub Repository
         ↓
