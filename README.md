@@ -18,6 +18,9 @@ It simulates how modern cloud-native applications are built, deployed, and monit
 ## 🏗️ Architecture
 
 ```
+<img width="1024" height="1536" alt="image" src="https://github.com/user-attachments/assets/02718964-d07a-47bb-b02e-293ad90239d8" />
+
+
 GitHub Repository
         ↓
 GitHub Actions (CI/CD Pipeline)
